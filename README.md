@@ -11,16 +11,13 @@
   <a href="https://github.com/rajaji98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajaji98&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 B.Tech in Mechanical Engineering, SGSITS Indore (2023–2027)
 - 🔭 Built 4 technical projects across Full-Stack Development, Machine Learning, NLP and Deep Learning
-- 🧩 Solved 150+ DSA problems
+- 🧩 Solved 170+ DSA problems
 - 🌱 Actively preparing for Software Development and Data Science placements
 - 💬 Open to internships in Software Development, AI and Machine Learning
 
@@ -31,15 +28,18 @@
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
 **Machine Learning / Data Science**
 
 <p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  
 </p>
 
 **Web Development**
@@ -55,17 +55,12 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 **Databases & Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -78,11 +73,8 @@
 
 ### 📌 Featured Projects
 
-- **[RK Krishna Classes – Coaching Institute Management System](https://github.com/rajaji98/rk-krishna-classes)**
+- **[RK Krishna Classes – Coaching Institute Management System](https://rkkrishnaclasses.in/)**
   Full-stack management system (Node.js, Express.js, MongoDB) with JWT auth, bcrypt hashing, and a teacher CRUD dashboard.
-
-- **Cats vs Dogs Image Classification (CNN)**
-  Binary image classifier built with TensorFlow/Keras, including preprocessing, augmentation, and training visualization.
 
 - **[SMS Spam Classifier](https://github.com/rajaji98/sms-spam-classifier)**
   NLP spam detector using TF-IDF + Multinomial Naive Bayes, deployed as a Flask app for real-time predictions.
@@ -103,6 +95,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaji98&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaji98&theme=tokyo-night&hide_border=true"/>
-</p>
